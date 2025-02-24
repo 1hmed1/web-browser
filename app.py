@@ -89,12 +89,13 @@ elif page == "📞 Contact":
 # Hix AI Chat Button
 st.markdown(
     """
-    <a href="https://hix.ai/chat" target="_blank">
+    <a href="https://hix.ai/" target="_blank">
         <button class="button">🚀 Try Hix AI Chat Now!</button>
     </a>
     """,
     unsafe_allow_html=True
 )
+
 
 # Footer with "Created by Ahmed Sheikh"
 st.markdown(
